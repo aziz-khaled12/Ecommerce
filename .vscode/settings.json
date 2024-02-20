@@ -1,0 +1,12 @@
+{
+    "emmet.preferences": {
+
+
+    },
+    "css.styleSheets": [
+
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
