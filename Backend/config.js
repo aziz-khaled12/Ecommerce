@@ -1,2 +1,3 @@
 export const PORT = 3001;
-export const mongoDBURL = 'mongodb+srv://azizkhaled11:Aziz_khaled2005@khalil.oxr6w3s.mongodb.net/';
+export const mongoDBURL = 'mongodb+srv://azizkhaled11:Aziz_khaled2005@khalil.oxr6w3s.mongodb.net/?retryWrites=true&w=majority';
+export const JWT_SECRET = '4e2f3e60f58bed8ea4af3d9e61d79a8c708d8baa70978e80662862729daa23394cb82f348df5af7a3edc0f5e8483ff3c852310ba231a21b248e815a58c1c4b76c4bd0dfda5fb56f496cdd78cf402b6fd8715c0abd48781819844e5e7fa95375ae7d66336dec2c12de212605a2155af5aced47cd90ae4908d0f4bf0c43515e36f';
